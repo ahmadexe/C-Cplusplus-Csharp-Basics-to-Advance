@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\C#\Basics\Decision\bin\Debug\Decision.exe.config
+C:\Users\HP\Desktop\C#\Basics\Decision\bin\Debug\Decision.exe
+C:\Users\HP\Desktop\C#\Basics\Decision\bin\Debug\Decision.pdb
+C:\Users\HP\Desktop\C#\Basics\Decision\obj\Debug\Decision.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Basics\Decision\obj\Debug\Decision.exe
+C:\Users\HP\Desktop\C#\Basics\Decision\obj\Debug\Decision.pdb

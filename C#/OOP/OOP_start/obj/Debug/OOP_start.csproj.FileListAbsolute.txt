@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\C#\OOP\OOP_start\bin\Debug\OOP_start.exe.config
+C:\Users\HP\Desktop\C#\OOP\OOP_start\bin\Debug\OOP_start.exe
+C:\Users\HP\Desktop\C#\OOP\OOP_start\bin\Debug\OOP_start.pdb
+C:\Users\HP\Desktop\C#\OOP\OOP_start\obj\Debug\OOP_start.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\OOP\OOP_start\obj\Debug\OOP_start.exe
+C:\Users\HP\Desktop\C#\OOP\OOP_start\obj\Debug\OOP_start.pdb
